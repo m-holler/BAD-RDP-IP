@@ -28,8 +28,8 @@
               <span class="cf-error-type">Error</span>
               <span class="cf-error-code">522</span>
             </h1>
-            <span class="inline-block sm:block font-mono text-15 lg:text-sm lg:leading-relaxed">Ray ID: 6b96619faaad4ed3 &bull;</span>
-            <span class="inline-block sm:block font-mono text-15 lg:text-sm lg:leading-relaxed">2021-12-06 15:00:31 UTC</span>
+            <span class="inline-block sm:block font-mono text-15 lg:text-sm lg:leading-relaxed">Ray ID: 6b968d916c4842e7 &bull;</span>
+            <span class="inline-block sm:block font-mono text-15 lg:text-sm lg:leading-relaxed">2021-12-06 15:30:31 UTC</span>
             <h2 class="text-gray-600 leading-1.3 text-3xl font-light">Connection timed out</h2>
         </header>
         
